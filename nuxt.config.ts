@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxtjs/tailwindcss',
     'shadcn-nuxt',
+    '@nuxtjs/color-mode',
   ],
 
   eslint: {
